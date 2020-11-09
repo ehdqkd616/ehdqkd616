@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-Hello. I am Rudy(Yeon-woo Kim) studying web development in South Korea. \n
-I majored in classical composition, choral conduct, and computer science at university. \n
-I love music and computers, and I want to do coding artistically.
+Hello. I am Rudy(Yeon-woo Kim) studying web development in South Korea.     
+I majored in classical composition, choral conduct, and computer science at university.     
+I love music and computers, and I want to do coding artistically.    
 
 ### Education
 
-🎓 Classical Composition Major and Choral Conduct Major - Chung-Ang University in Korea \n 
-🎓 Computer Engineering Major - The Academic Credit Bank System(KG IT-Bank) in Korea \n
-🎓 NCS Smart Content Convergence Application SW Engineer Training Course Completion - KH Information Education Center in Korea \n
+🎓 Classical Composition Major and Choral Conduct Major - Chung-Ang University in Korea     
+🎓 Computer Engineering Major - The Academic Credit Bank System(KG IT-Bank) in Korea    
+🎓 NCS Smart Content Convergence Application SW Engineer Training Course Completion - KH Information Education Center in Korea    
 
 
 
