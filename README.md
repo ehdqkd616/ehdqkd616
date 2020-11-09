@@ -1,4 +1,4 @@
-### Hi there 👋
+### Rudy(Yeon-woo Kim)👋
 
 Hello. I am Rudy(Yeon-woo Kim) studying web development in South Korea.     
 I majored in classical composition, choral conduct, and computer science at university.     
@@ -10,6 +10,9 @@ I love music and computers, and I want to do coding artistically.
 🎓 Computer Engineering Major - The Academic Credit Bank System(KG IT-Bank) in Korea    
 🎓 NCS Smart Content Convergence Application SW Engineer Training Course Completion - KH Information Education Center in Korea    
 
+### Interest
+* 🌱 Database Architect
+* 🌱 Full stack Web Development
 
 
 <!--
