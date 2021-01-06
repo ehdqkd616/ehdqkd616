@@ -14,8 +14,24 @@ I love music and computers, and I want to do coding artistically.
 * 🌱 Database Architect
 * 🌱 Full stack Web Development
 
-### Using Languages & Skills
+## Using Languages & Skills
+### Language
+* Java
+* javaScript
+* jQuery
 
+### Database
+* Oracle Database 11g, 18c
+
+### Web Application Framework
+* SpringFramework
+
+### Skills
+* Ajax
+* Mybatis
+* Spring Security
+* Websocket
+* JSP&Servlet
 
 <!--
 **ehdqkd616/ehdqkd616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
