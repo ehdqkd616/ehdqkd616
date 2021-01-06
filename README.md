@@ -19,6 +19,8 @@ I love music and computers, and I want to do coding artistically.
 * Java
 * javaScript
 * jQuery
+* HTML5
+* CSS3
 
 ### Database
 * Oracle Database 11g, 18c
