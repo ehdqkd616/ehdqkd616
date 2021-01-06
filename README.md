@@ -7,7 +7,7 @@ I love music and computers, and I want to do coding artistically.
 ### Education
 
 🎓 Classical Composition Major and Choral Conduct Major - Chung-Ang University in Korea     
-🎓 Computer Engineering Major - The Academic Credit Bank System(KG IT-Bank) in Korea    
+🎓 Computer Engineering Major - The Academic Credit Bank System in Korea    
 🎓 NCS Smart Content Convergence Application SW Engineer Training Course Completion - KH Information Education Center in Korea    
 
 ### Interest
