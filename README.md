@@ -26,6 +26,8 @@ I love music and computers, and I want to do coding artistically.
 
 ### Database
 * Oracle Database 11g, 18c
+* MySQL
+* MSSQL
 
 ### Web Application Framework
 * SpringFramework
