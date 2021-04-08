@@ -19,6 +19,7 @@ I love music and computers, and I want to do coding artistically.
 * Java
 * Node.js
 * React
+* React-Native
 * javaScript
 * jQuery
 * HTML5
@@ -28,7 +29,8 @@ I love music and computers, and I want to do coding artistically.
 * Oracle Database 11g, 18c
 * MySQL
 * MSSQL
-* MarinaDB
+* MariaDB
+* MongoDB
 
 ### Web Application Framework
 * SpringFramework
