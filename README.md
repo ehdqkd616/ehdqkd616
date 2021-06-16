@@ -12,9 +12,11 @@ I love music and computers, and I want to do coding artistically.
 
 ### Interest
 * 🌱 Database Architect
-* 🌱 Full stack Web Development
+* 🌱 Full Stack Web Development
 
-### 
+## Task
+### Full Stack Web&App Development
+** Web, Android, IOS
 
 ## Using Languages & Skills
 ### Language
