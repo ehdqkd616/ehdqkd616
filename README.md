@@ -14,23 +14,25 @@ I love music and computers, and I want to do coding artistically.
 * 🌱 Database Architect
 * 🌱 Full stack Web Development
 
+### 
+
 ## Using Languages & Skills
 ### Language
 * Java
 * Node.js
 * React
 * React-Native
-* javaScript
+* javaScript(ES6)
 * jQuery
 * HTML5
 * CSS3
+* Sass(SCSS)
 
 ### Database
 * Oracle Database 11g, 18c
 * MySQL
 * MSSQL
 * MariaDB
-* MongoDB
 
 ### Web Application Framework
 * SpringFramework
@@ -43,6 +45,8 @@ I love music and computers, and I want to do coding artistically.
 * Websocket
 * Socket.io
 * JSP&Servlet
+* ASP
+* Babel
 
 <!--
 **ehdqkd616/ehdqkd616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
