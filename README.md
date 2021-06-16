@@ -15,8 +15,8 @@ I love music and computers, and I want to do coding artistically.
 * 🌱 Full Stack Web Development
 
 ## Task
-### Full Stack Web&App Development
-** Web, Android, IOS
+### 💻 Full Stack Web&App Development
+* Web, Android, IOS
 
 ## Using Languages & Skills
 ### Language
