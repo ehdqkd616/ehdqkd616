@@ -24,7 +24,7 @@ I love music and computers, and I want to do coding artistically.
 * Node.js
 * React
 * React-Native
-* javaScript(ES6)
+* javaScript(ES6+)
 * jQuery
 * HTML5
 * CSS3
