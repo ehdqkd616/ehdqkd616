@@ -1,6 +1,6 @@
 ### Rudy(Yeon-woo Kim)👋
 
-Hello. I am Rudy(Yeon-woo Kim) studying web development in South Korea.     
+Hello. I am Rudy(Yeon-woo Kim) doing web and app development in South Korea.     
 I majored in classical composition, choral conduct, and computer science at university.     
 I love music and computers, and I want to do coding artistically.    
 
@@ -12,7 +12,7 @@ I love music and computers, and I want to do coding artistically.
 
 ### Interest
 * 🌱 Database Architect
-* 🌱 Full Stack Web Development
+* 🌱 Full Stack Web, App Development
 
 ## Task
 ### 💻 Full Stack Web&App Development
