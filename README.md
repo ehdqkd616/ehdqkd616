@@ -21,10 +21,11 @@ I love music and computers, and I want to do coding artistically.
 ## Using Languages & Skills
 ### Language
 * Java
+* javaScript(ES6+)
+* Python
 * Node.js
 * React
 * React-Native
-* javaScript(ES6+)
 * jQuery
 * HTML5
 * CSS3
